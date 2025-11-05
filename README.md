@@ -7,12 +7,10 @@
 ## 👨🏽‍💻 Technical Skills
 
 ### 🧠 Programming & Development
-Python | Java | JavaScript | Node.js | Flask | Dart | Flutter | HTML | CSS  
-GitHub | Agile Development | CI/CD Basics | API Integration | RESTful APIs | Responsive Design | Figma | Cloud Fundamentals  
+Python | Java | JavaScript | Node.js | Flask | Dart | Flutter | HTML | CSS | GitHub | Agile Development | API Integration | RESTful APIs | Responsive Design | Figma | Cloud Fundamentals  
 
 ### 🗄️ Databases & Cloud Systems
-MariaDB | SQLite | Firestore (NoSQL) | Database Design | Query Optimisation | Authentication Systems  
-Virtualisation (VMware / VirtualBox) | Command-Line Tools  
+MariaDB | SQLite | Firestore (NoSQL) | Database Design | Query Optimisation | Authentication Systems | Virtualisation (VMware / VirtualBox) | Command-Line Tools  
 
 ### 🛡️ Cyber Security & Networks
 **Risk & Assessment:** Threat Modelling | Vulnerability Assessment | Risk Analysis  
@@ -21,8 +19,7 @@ Virtualisation (VMware / VirtualBox) | Command-Line Tools
 **Cloud & System Security:** Cloud Security Fundamentals | Authentication Systems  
 
 ### 📊 Data Analysis & Visualisation
-Python (pandas, NumPy) | Excel | Statistical Analysis | Data Cleaning | Data Visualisation  
-Charts & Dashboards | Infographics  
+Python (pandas, NumPy) | Excel | Statistical Analysis | Data Cleaning | Data Visualisation | Charts & Dashboards | Infographics  
 
 ### 🧩 Research & Documentation
 Survey Design | Report Writing | Technical Documentation | Usability Testing  

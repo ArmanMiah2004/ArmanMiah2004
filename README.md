@@ -6,26 +6,26 @@
 
 ## 👨🏽‍💻 Technical Skills
 
-**Languages & Frameworks:**  
-Python | Java | JavaScript | Node.js | HTML | CSS
+### 🧠 Programming & Development
+Python | Java | JavaScript | Node.js | Flask | Dart | Flutter | HTML | CSS  
+GitHub | Agile Development | CI/CD Basics | API Integration | RESTful APIs | Responsive Design | Figma | Cloud Fundamentals  
 
-**Databases & Data Management:**  
-MariaDB | SQLite | Firestore (NoSQL) | Database Design | Data Handling | Query Optimisation | Authentication Systems
+### 🗄️ Databases & Cloud Systems
+MariaDB | SQLite | Firestore (NoSQL) | Database Design | Query Optimisation | Authentication Systems  
+Virtualisation (VMware / VirtualBox) | Command-Line Tools  
 
-**Cloud & Development Tools:**  
-RESTful API Design | API Integration | GitHub | Agile Development | CI/CD Basics | Cloud Fundamentals | Data Visualisation | Responsive Design | Figma
+### 🛡️ Cyber Security & Networks
+**Risk & Assessment:** Threat Modelling | Vulnerability Assessment | Risk Analysis  
+**Offensive & Defensive Security:** Penetration Testing | Secure Coding Practices | Network Monitoring  
+**Incident & Response:** Incident Response | Data Protection | Access Control | Security Protocols  
+**Cloud & System Security:** Cloud Security Fundamentals | Authentication Systems  
 
-**Cyber Security & Networks:**  
-Threat Modelling | Vulnerability Assessment | Risk Analysis | Penetration Testing | Incident Response | Network Monitoring | Security Protocols | Secure Coding Practices | Data Protection | Authentication & Access Control | Cloud Security Fundamentals
+### 📊 Data Analysis & Visualisation
+Python (pandas, NumPy) | Excel | Statistical Analysis | Data Cleaning | Data Visualisation  
+Charts & Dashboards | Infographics  
 
-**Operating Systems & Tools:**  
-Windows | Linux | macOS | Command-Line Tools | Wireshark | GitHub | Virtualisation (VirtualBox / VMware)
-
-**Data Analysis & Research:**  
-Python (pandas, NumPy) | Excel (data cleaning, pivot tables, visualisations) | Statistical Analysis | Data Collection & Cleansing | Survey Design | Qualitative & Quantitative Analysis | Report Writing | Documentation
-
-**Visualisation & Presentation:**  
-Data Visualisation | Infographics | Charts & Dashboards | PowerPoint | Figma
+### 🧩 Research & Documentation
+Survey Design | Report Writing | Technical Documentation | Usability Testing  
 
 ---
 

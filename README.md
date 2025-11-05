@@ -7,10 +7,10 @@
 ## 👨🏽‍💻 Technical Skills
 
 ### 🧠 Programming & Development
-Python | Java | JavaScript | Node.js | Flask | Dart | Flutter | HTML | CSS | GitHub | Agile Development | API Integration | RESTful APIs | Responsive Design | Figma | Cloud Fundamentals  
+Python | Java | JavaScript | Node.js | HTML | CSS | GitHub | Agile Development | API Integration | RESTful APIs | Figma | Cloud Fundamentals  
 
 ### 🗄️ Databases & Cloud Systems
-MariaDB | SQLite | Firestore (NoSQL) | Database Design | Query Optimisation | Authentication Systems | Virtualisation (VMware / VirtualBox) | Command-Line Tools  
+MariaDB | SQLite | Firestore (NoSQL) | Database Design | Authentication Systems | Virtualisation | Command-Line Tools  
 
 ### 🛡️ Cyber Security & Networks
 **Risk & Assessment:** Threat Modelling | Vulnerability Assessment | Risk Analysis  
